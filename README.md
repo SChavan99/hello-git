@@ -1,2 +1,2 @@
-# hello-git
-My first GitHub repo
+# Hello Git
+This is my first commit!
