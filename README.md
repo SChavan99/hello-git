@@ -2,4 +2,4 @@
 This is my first commit!
 
 ## About
-####This project is for learning Git basics.####
+####This project is for Git basics.####
